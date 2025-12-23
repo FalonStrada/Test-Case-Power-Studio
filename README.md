@@ -1,4 +1,4 @@
-# Test Case Generator
+# Test Case Power Studio
 
 Herramienta CLI que automatiza la generación de casos de prueba desde historias de usuario en Jira, aplicando técnicas formales de testing (Pairwise, Boundary Value Analysis, Decision Tables) y sincronizándolos con Qase.
 
